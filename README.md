@@ -1,5 +1,7 @@
 # THE-Winter-School
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AStrittmatter/THE-Winter-School/master)
+
 **Schedule:**
 
 Thursday, December 12
