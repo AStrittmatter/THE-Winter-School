@@ -1,6 +1,6 @@
 # THE-Winter-School
 
-*Schedule:*
+**Schedule:**
 
 Thursday, December 12
 - 9:15-10:45: Promises and Perils of Machine Learning
@@ -9,7 +9,8 @@ Thursday, December 12
 Friday, December 13
 -	9:00-10:30: Causal Machine Learning
 
-*Course Description:*
+**Course Description:**
+
 The purpose of the course is to give participants a short overview about how they can deploy machine learning methods in their own research projects.
 
 The first lecture gives an overview about the scope of machine learning applications in business and economic research including example applications. We discuss which research tasks can be pegged to machine learning algorithms and which tasks have to remain under human control. We discuss the difference between predictive and causal machine learning. The course participants learn the perils of machine learning. 
